@@ -1,2 +1,3 @@
 # parseYoutubePlaylistVideos
-List of videos from Youtube playlist web page
+Creates a file with a list of all the videos in the playlist, from the .html file from the saved web page.
+(the page of the playlist must be scrolled to load all the videos, before being saved)
